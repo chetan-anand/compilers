@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1362327584 source:c:\users\abhi\desktop\codes\ap_lexer\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<cstdlib>
+
+1362309890 source:c:\users\abhi\desktop\codes\ap_lexer\lex.cpp
+	<cstdio>
+
+1362441782 source:c:\users\abhi\downloads\codes\ap_lexer\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<cstdlib>
+
+1362358490 source:c:\users\abhi\downloads\codes\ap_lexer\lex.cpp
+	<cstdio>
+
+1362472164 source:e:\dropbox\acads\sem vi\compilers\assignment 2\codes\ap_lexer\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<cstdlib>
+
+1362309890 source:e:\dropbox\acads\sem vi\compilers\assignment 2\codes\ap_lexer\lex.cpp
+	<cstdio>
+

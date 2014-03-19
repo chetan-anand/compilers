@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1362332845 source:c:\users\abhi\desktop\codes\ap_flex\main.cpp
+	<iostream>
+	<stdio.h>
+	<set>
+	<stack>
+	<algorithm>
+	<fstream>
+	<string.h>
+	"func.h"
+
+1362252135 c:\users\abhi\desktop\codes\ap_flex\func.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<set>
+
+1362438616 source:c:\users\abhi\downloads\codes\ap_flex\main.cpp
+	<iostream>
+	<stdio.h>
+	<set>
+	<stack>
+	<algorithm>
+	<fstream>
+	<string.h>
+	"func.h"
+
+1362300735 c:\users\abhi\downloads\codes\ap_flex\func.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<set>
+
+1362390016 source:e:\dropbox\acads\sem vi\compilers\assignment 2\codes\ap_flex\main.cpp
+	<iostream>
+	<stdio.h>
+	<set>
+	<stack>
+	<algorithm>
+	<fstream>
+	<string.h>
+	"func.h"
+
+1362252135 e:\dropbox\acads\sem vi\compilers\assignment 2\codes\ap_flex\func.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<set>
+
