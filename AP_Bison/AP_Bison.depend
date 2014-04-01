@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1364735973 source:e:\dropbox\acads\sem vi\compilers\ap_bison\main.cpp
+	<iostream>
+	<map>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<climits>
+	"func.h"
+	<algorithm>
+	<set>
+	<fstream>
+	<cassert>
+
+1364645806 e:\dropbox\acads\sem vi\compilers\ap_bison\prefix_tree.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<map>
+	<vector>
+
+1364663630 e:\dropbox\acads\sem vi\compilers\ap_bison\func.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<set>
+
+1365192620 source:c:\users\chetan\copy\sem 6\compiler lab\compiler lab\check\assignments\ap_bison\main.cpp
+	<iostream>
+	<map>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<climits>
+	"func.h"
+	<algorithm>
+	<set>
+	<fstream>
+	<cassert>
+
+1364663630 c:\users\chetan\copy\sem 6\compiler lab\compiler lab\check\assignments\ap_bison\func.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<set>
+
