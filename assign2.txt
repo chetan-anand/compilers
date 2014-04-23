@@ -1,0 +1,26 @@
+Dear all,
+
+Please find below assignment 2 for Compilers Lab.
+
+--------------------------------------------------------------------
+Problem1 (a).
+Take a language which is a subset of C. You may take any other language
+(or its subset). Define its alphabets and the tokens using regular
+expressions. From the tokens, generate the transition diagrams and display
+them in form of a table.
+Take a sample program in the language you have considered. Perform lexical
+analysis for the program and generate the symbol table. Also, your lexical
+analysis module should have error detection capability.
+
+
+The problem defined above describes ONLY the basic requirements. You are
+free to implement in your own way for efficiency in implementation,
+however, you must remember that computation power should not be more than
+that of DFA.
+Extra credits will be given for “efficiency in implementation”!!!!
+
+
+Problem1 (b).
+Implement a Lexical analyzer using lex for the same language language
+considered above.
+-------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+Assignment 4: Simple 3 address code generation
+
+In this assignment you need to generate three address intermediate code
+from the output of your parser.
+---------------------------------------------------------------------
+
+
+Say the output of your parser is:
+
+            x:=y op z
+
+where x,y and z are "id", and ‘op’ stands for any operator.
+
+The three address code is
+
+    t1:=y*z
+    t2:=x+t1
+    d:=t2
+
+where t1 and t2 are compiler-generated temporary variables.
+-------------------------------------------------------------------------
+
+Demo date is 13th April, 2013.
+As time is less, a simple implementation will suffice.
